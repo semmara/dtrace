@@ -29,4 +29,5 @@ LINKS
 * https://wiki.freebsd.org/DTrace/Examples
 * http://stackoverflow.com/questions/1204256/how-to-trace-a-program-from-its-very-beginning-without-running-it-as-root
 * [Quickstart](http://www.tablespace.net/quicksheet/dtrace-quickstart.html)
+* [Actions and Subroutines](https://wikis.oracle.com/display/DTrace/Actions+and+Subroutines#ActionsandSubroutines-{{progenyof}})
 
