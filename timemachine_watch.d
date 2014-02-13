@@ -2,6 +2,8 @@
 
 /* see what time machine is looking for */
 
+#pragma D option quiet
+
 syscall::open*:entry
 /execname=="backupd"/
 {
