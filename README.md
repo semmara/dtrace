@@ -18,7 +18,7 @@ $ sudo su
 # dtrace -n '<command>'
 ```
 
-LINKS
+links
 =====
 * http://www.dtracebook.com/index.php/Main_Page
 * http://www.brendangregg.com/dtrace.html
@@ -30,4 +30,9 @@ LINKS
 * http://stackoverflow.com/questions/1204256/how-to-trace-a-program-from-its-very-beginning-without-running-it-as-root
 * [Quickstart](http://www.tablespace.net/quicksheet/dtrace-quickstart.html)
 * [Actions and Subroutines](https://wikis.oracle.com/display/DTrace/Actions+and+Subroutines#ActionsandSubroutines-{{progenyof}})
+
+
+interesting
+===========
+* http://www.ibm.com/developerworks/aix/library/au-dtraceprobes.html
 
